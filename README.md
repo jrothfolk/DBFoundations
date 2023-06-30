@@ -1,2 +1,4 @@
 # DBFoundations
-Foundations of Databases
+## Assignment 6 
+## Assignment 7
+### Functions and User Defined Functions
